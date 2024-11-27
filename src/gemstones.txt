@@ -1,0 +1,4 @@
+Precious,Diamond,5000,90
+SemiPrecious,Amber,200,70
+Precious,Ruby,3000,85
+SemiPrecious,Quartz,150,60
